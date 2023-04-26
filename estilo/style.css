@@ -85,10 +85,12 @@ section.imagem > p {
     background-image: url('../imagens/background001.jpg');
     background-position: right center;
     
+    
 }
 
 #img02 {
     background-image: url('../imagens/background002.jpg');
+    background-size: cover;
     
 }
 
